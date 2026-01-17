@@ -1,6 +1,6 @@
 # MongoDB Project
 
-## About
+## 🚀About
 
 This repository contains a **simple Node.js and MongoDB application**.
 
@@ -8,7 +8,7 @@ It includes an Express server and frontend HTML page that connects to a MongoDB 
 
 ---
 
-## Repository Contents
+## 📁 Repository Contents
 
 - `server.js` – Main server file (Express + MongoDB)  
 - `package.json` – Node.js project metadata  
@@ -18,7 +18,7 @@ It includes an Express server and frontend HTML page that connects to a MongoDB 
 
 ---
 
-## Requirements
+## 📌 Requirements
 
 To run this project, you need:
 
@@ -28,7 +28,7 @@ To run this project, you need:
 
 ---
 
-## Getting Started
+## 🛠️ Getting Started
 
 Before running the project, make sure MongoDB is running:
 
@@ -44,23 +44,25 @@ If using MongoDB Atlas:
 
 ---
 
-### How to Run
+## 🛠️ How to Run
 Option 1: Run Locally
 
 1. Clone the repository:
-git clone https://github.com/Akshu-1106/Mongodb.git
-2. Navigate into the project:
+   ```bash
+   git clone https://github.com/Akshu-1106/Mongodb.git
+3. Navigate into the project:
+   ```bash
    cd Mongodb
-3. Install dependencies:
-    npm install
-4. Start the server:
-   node server.js
-5. Open the frontend in your browser:
-   front.html
+5. Install dependencies:
+    ```npm install```
+6. Start the server:
+   ```node server.js```
+7. Open the frontend in your browser:
+   ```front.html```
 
 ---
 
-### Usage
+## 🧠 Usage
 1. Once the server is running:
 2. Use the frontend page (front.html) to interact with the application
 3. Perform basic MongoDB operations (create, read, update, delete) through the UI
